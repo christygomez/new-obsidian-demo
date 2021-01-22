@@ -7,7 +7,7 @@ To try it out:
 2. Install the latest version of Redis to create an instance
 3. Create a .env with:
 ```
-PG_URI=postgres://uiikgqgj:cSjcLEFvsuAb7Q3bc6O5p2LYbyjWlw5t@suleiman.db.elephantsql.com:5432/uiikgqgj
+PG_URI=[your postgres URI]
 REDIS_HOST=localhost
 ```
 4. Run the following script:
